@@ -1,7 +1,7 @@
 # KeunoBot
 🐼 -Simple Self-Bot for Discord
 
-<h1 align="center">ZIPER</h1>
+<h1 align="center">KEUNOBOT</h1>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/828595005957734421/951175328963903508/Capture_decran_2022-03-09_185051.jpg">
@@ -11,49 +11,43 @@
 ## 🐼 - Run KeunoBot :
 ```cs
 /*
-  - Install Ziper
+  - Install KeunoBot
   - Extract it
   - Run setup.bat
-  - type : Ziper.py -h
+  - Set token and prefix in config.json
+  - type : Keunobot.py
 */
 ```
 
-## 🐼 - Help :
+## 🐼 - Config :
 ```cs
-
-C:\Users\Bidouffe\Desktop\Ziper>Ziper.py -h
-
-  usage: Ziper.py [-h] [-f F] [-l L]
-
-  Ziper cracker [Bidouffe]
-
-  optional arguments:
-    -h, --help  show this help message and exit
-    -f F        path of zipfile
-    -l L        path of pass list
-
+{
+    "token": "ENTER TOKEN",
+    "prefix": "ENTER PREFIX"
+}
 ```
 
 
-## 🐼 - Wordlist :
+## 🐼 - Commands :
 ```cs
-  - https://github.com/Madhava-mng/RockYou.txt
-  - https://github.com/mishrasunny174/WordLists
-  - https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.html
-  - http://www.outpost9.com/files/WordLists.html
-  - http://www.mieliestronk.com/wordlist.html
-  - http://www.hashkiller.co.uk/downloads.aspx
-  - http://www.md5this.com/tools/wordlists.html
-  - https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/
-  - http://packetstormsecurity.com/Crackers/wordlists/
-  - https://wiki.skullsecurity.org/Passwords
-  - http://www.openwall.com/passwords/wordlists/
+  [$>help](send this message)
+
+- $>ping => calculate self-bot ping
+- $>dmfriends <message> => Dm all friends list to send message
+- $>cleardm => delete all Dm message
+- $>status <activity> => change account activity
+- $>squad Bravery/Brilliance/Balance => change account HypeSquad
+- $>lightmode => set discord light Theme
+- $>darkmode => set discord dark Theme
+- $>cleargroup => leave all Dms groups
+- $>antighost on/off => set Anti Ghost Ping
+- $>clearserver => clear all of channels, server roles
 ```
 #
 
 <p align="center"> 
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Bidouffe/Ziper">
-  <img alt="star" src="https://img.shields.io/github/stars/Bidouffe/Ziper">
-  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/Ziper">
-  <img alt="license" src="https://img.shields.io/github/license/Bidouffe/Ziper">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Bidouffe/KeunoBot">
+  <img alt="star" src="https://img.shields.io/github/stars/Bidouffe/KeunoBot">
+  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/KeunoBot">
+  <img alt="license" src="https://img.shields.io/github/license/Bidouffe/KeunoBot">
 </p> 
