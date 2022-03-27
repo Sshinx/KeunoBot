@@ -5,5 +5,5 @@ pip install requests
 pip install pyfade
 pip install colorama
 pip install random
-
+pip install selenium
 
